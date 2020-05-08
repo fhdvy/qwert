@@ -1,0 +1,20 @@
+select from  where                                    查询
+inner join ` ` on ``=``                                  联表
+insert into ``(``,``) values(``)                        添加
+update ``ser                                              修改
+DELETE FROM ` ` WHERE                         删除
+group by 分类 having 条件
+drop database if exists ` `判断删除数据库
+create database if exists  ` `创建数据库
+order by  ` `  desc降序 asc升序
+limit  `多少个`,`从多少开始`
+BEGIN	 开始事务 
+COMMIT   提交事务
+ROLLBACK 回滚事务
+AVG平均
+count行数
+max最大
+min最小
+sum和
+create index ` `  on ` `(``,``) 索引
+FORCE INDEX（）
